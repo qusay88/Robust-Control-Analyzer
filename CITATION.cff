@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Robust Control Analyzer"
+version: "4.0.0"
+type: software
+license: MIT
+repository-code: "https://github.com/qusay88/Robust-Control-Analyzer"
+authors:
+  - family-names: "Sultan"
+    given-names: "Qusay"
+    affiliation: "University of Anbar"
+abstract: "A Python-based graphical tool for classical stability analysis and disk-margin robustness assessment of linear time-invariant systems."
+keywords: ["robust control", "disk margin", "stability analysis", "Python"]
+# After the Zenodo release, add:  doi: "10.5281/zenodo.XXXXXXX"
